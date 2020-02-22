@@ -1,0 +1,27 @@
+{
+  "nome": "John Doe",
+  "empresa": "Acme Inc.",
+  "Telefone": 44999999999,
+  "email": "johndoe@CIA.gov.spy",
+  "op_numero": 4,
+  "oportunidades":[
+    {
+      "ganho": 20000,
+	  "tipo": "a"
+    },
+    {
+      "ganho": 2000,
+	  "tipo": "b"
+    },
+    {
+      "ganho": "Diversas Moedinhas",
+	  "tipo": "c"
+    },
+	{
+	  "ganho": 5000,
+	  "tipo": "a"
+	}
+  ],
+  "credito_concedido": 5000,
+  "credito_disponivel": 6000
+}
